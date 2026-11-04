@@ -70,7 +70,13 @@ Developing an intelligent AI calling platform for automated customer reminders a
 - PostgreSQL integration
 - Dry-run calling and telephony integration
 
-**Tech Stack:** Python, FastAPI, PostgreSQL, SQLAlchemy, APScheduler, AI Agents
+**Tech Stack:** 
+Python, SQL, JavaScript
+Pandas, NumPy, Scikit-learn, XGBoost
+LangChain, OpenAI, Hugging Face
+FastAPI, PostgreSQL, SQLAlchemy
+ChromaDB, FAISS, Pinecone
+Docker, Git, GitHub
 
 ### 🎙️ 2. Realtime AI Voice Assistant
 A real-time conversational voice application with AI-powered interactions and function execution.
@@ -152,23 +158,24 @@ Research and benchmarking of speech synthesis technologies for English, Hindi an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prerna2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerna2022&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prerna2022&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prerna2022&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prerna2022&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Prerna2022&theme=tokyonight&hide_border=true" />
 </p>
 
-## 🛠️ Technology Stack
+## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,fastapi,docker,git,github,vscode,linux,react,nextjs" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prerna2022&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,redis,mongodb" />
-</p>
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating and building meaningful technology solutions.
