@@ -19,6 +19,19 @@ I am passionate about transforming ideas into practical AI applications. My inte
 - 🌱 Always learning, experimenting and building.
 
 ---
+## 💼 Professional Experience
+
+### Consultant | PADMS Technology LLP
+
+During my tenure at PADMS Technology LLP, I was involved in various professional assignments and responsibilities related to **Data Science and Agentic AI Solutions**.
+
+**Areas of Involvement:**
+- Data Science and analytical solutions.
+- Agentic AI application development.
+- AI-powered solutions and intelligent automation.
+- Research, development and technical problem-solving.
+
+
 
 ## 💻 Technical Skills
 
