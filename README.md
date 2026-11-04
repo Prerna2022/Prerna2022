@@ -147,7 +147,28 @@ Research and benchmarking of speech synthesis technologies for English, Hindi an
 - Data Engineering & Backend Systems
 
 ---
+---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prerna2022&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prerna2022&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prerna2022&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🛠️ Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,mysql,fastapi,docker,git,github,vscode,linux,react,nextjs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,aws,redis,mongodb" />
+</p>
 ## 🤝 Let's Connect
 
 I'm always interested in learning, collaborating and building meaningful technology solutions.
