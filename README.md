@@ -152,9 +152,9 @@ Research and benchmarking of speech synthesis technologies for English, Hindi an
 
 I'm always interested in learning, collaborating and building meaningful technology solutions.
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📧 Email: [Add your professional email]
-- 🐙 GitHub: [Prerna2022](https://github.com/Prerna2022)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prerna-prasad-0a098b1b1/)
+- 🐙 **GitHub:** [Prerna2022](https://github.com/Prerna2022)
+- 📧 Email: prernaprasad984@gmail.com 
 
 ---
 
